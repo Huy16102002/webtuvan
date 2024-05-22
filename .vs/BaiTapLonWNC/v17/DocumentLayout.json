@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|c:\\users\\huy dai de\\documents\\zalo received files\\baitaplonwnc\\baitaplonwnc\\baitaplonwnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|solutionrelative:baitaplonwnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|c:\\users\\huy dai de\\documents\\zalo received files\\baitaplonwnc\\baitaplonwnc\\baitaplonwnc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|solutionrelative:baitaplonwnc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|c:\\users\\huy dai de\\documents\\zalo received files\\baitaplonwnc\\baitaplonwnc\\baitaplonwnc\\wwwroot\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|solutionrelative:baitaplonwnc\\wwwroot\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|c:\\users\\huy dai de\\documents\\zalo received files\\baitaplonwnc\\baitaplonwnc\\baitaplonwnc\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|solutionrelative:baitaplonwnc\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|c:\\users\\huy dai de\\documents\\zalo received files\\baitaplonwnc\\baitaplonwnc\\baitaplonwnc\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|solutionrelative:baitaplonwnc\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|c:\\users\\huy dai de\\documents\\zalo received files\\baitaplonwnc\\baitaplonwnc\\baitaplonwnc\\wwwroot\\css\\detail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|solutionrelative:baitaplonwnc\\wwwroot\\css\\detail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|c:\\users\\huy dai de\\documents\\zalo received files\\baitaplonwnc\\baitaplonwnc\\baitaplonwnc\\wwwroot\\css\\trangcanhan.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5719A215-0855-41EB-A1FD-DB800DF2BD08}|BaiTapLonWNC\\BaiTapLonWNC.csproj|solutionrelative:baitaplonwnc\\wwwroot\\css\\trangcanhan.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 363,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "detail.css",
+              "DocumentMoniker": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\wwwroot\\css\\detail.css",
+              "RelativeDocumentMoniker": "BaiTapLonWNC\\wwwroot\\css\\detail.css",
+              "ToolTip": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\wwwroot\\css\\detail.css",
+              "RelativeToolTip": "BaiTapLonWNC\\wwwroot\\css\\detail.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-22T15:07:41.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\wwwroot\\css\\Home.css",
+              "RelativeDocumentMoniker": "BaiTapLonWNC\\wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\wwwroot\\css\\Home.css",
+              "RelativeToolTip": "BaiTapLonWNC\\wwwroot\\css\\Home.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-22T15:07:37.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "BaiTapLonWNC\\wwwroot\\css\\Login.css",
+              "ToolTip": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "BaiTapLonWNC\\wwwroot\\css\\Login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-22T15:07:33.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menu.css",
+              "DocumentMoniker": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\wwwroot\\css\\menu.css",
+              "RelativeDocumentMoniker": "BaiTapLonWNC\\wwwroot\\css\\menu.css",
+              "ToolTip": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\wwwroot\\css\\menu.css",
+              "RelativeToolTip": "BaiTapLonWNC\\wwwroot\\css\\menu.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-22T15:07:28.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BaiTapLonWNC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BaiTapLonWNC\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-22T15:07:23.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrangCaNhan.css",
+              "DocumentMoniker": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\wwwroot\\css\\TrangCaNhan.css",
+              "RelativeDocumentMoniker": "BaiTapLonWNC\\wwwroot\\css\\TrangCaNhan.css",
+              "ToolTip": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\wwwroot\\css\\TrangCaNhan.css",
+              "RelativeToolTip": "BaiTapLonWNC\\wwwroot\\css\\TrangCaNhan.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-22T15:07:16.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLonWNC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Huy Dai De\\Documents\\Zalo Received Files\\BaiTapLonWNC\\BaiTapLonWNC\\BaiTapLonWNC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiTapLonWNC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T15:06:25.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
